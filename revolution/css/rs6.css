@@ -343,13 +343,13 @@ a[x-apple-data-detectors] { color: inherit !important;   text-decoration: none !
 .rs-forceoverflow rs-slide { overflow:visible !important}
 
 .tp-simpleresponsive img,
-rs-module img{
-	max-width:none !important;	
-	transition: none;
+rs-module logo-img{
 	margin:0px;
 	padding:0px;
 	border:none;
 }
+
+
 
 rs-module .no-slides-text{font-weight:bold;text-align:center;padding-top:80px;}
 
